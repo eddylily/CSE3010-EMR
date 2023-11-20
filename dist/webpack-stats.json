@@ -1,0 +1,26 @@
+{
+  "status": "done",
+  "assets": {
+    "favicon.ico": {
+      "name": "favicon.ico",
+      "path": "/Users/amberdev31/PycharmProjects/newemr/dist/favicon.ico",
+      "publicPath": "http://127.0.0.1:8080/favicon.ico"
+    },
+    "index.html": {
+      "name": "index.html",
+      "path": "/Users/amberdev31/PycharmProjects/newemr/dist/index.html",
+      "publicPath": "http://127.0.0.1:8080/index.html"
+    },
+    "js/index.js": {
+      "name": "js/index.js",
+      "path": "/Users/amberdev31/PycharmProjects/newemr/dist/js/index.js",
+      "publicPath": "http://127.0.0.1:8080/js/index.js"
+    }
+  },
+  "chunks": {
+    "index": [
+      "js/index.js"
+    ]
+  },
+  "publicPath": "http://127.0.0.1:8080/"
+}
